@@ -21,4 +21,4 @@ I am a front-end and Javascript developer, passionate for all things web and ope
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aizuanjeme)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aizuanjeme&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizuanjeme)](https://github.com/anuraghazra/github-readme-stats) 
