@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ## About Me
 I am a front-end and Javascript developer, passionate for all things web and open-source. Highly adept in Javascript, writing modular, scalable and efficient code that works both on the browser and on the server, making modern web applications work as they should: beautiful, efficient, fast, and easy to use. Experienced in using Javascript ES6+, React, Redux, in a single unified workflow, with a passion for tooling, workflow automation.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aizuanjeme)  
