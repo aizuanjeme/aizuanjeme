@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Ademuyiwa Stephanie
 
 <!--
 **aizuanjeme/aizuanjeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I am a front-end and Javascript developer, passionate for all things web and open-source. Highly adept in Javascript, writing modular, scalable and efficient code that works both on the browser and on the server, making modern web applications work as they should: beautiful, efficient, fast, and easy to use. Experienced in using Javascript ES6+, React, Redux, in a single unified workflow, with a passion for tooling, workflow automation.
