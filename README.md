@@ -21,4 +21,4 @@ I am a front-end and Javascript developer, passionate for all things web and ope
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://stephportfolio.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephanie-ademuyiwa-89686a1b0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aizuanjeme)   -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizuanjeme)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizuanjeme)](https://github.com/anuraghazra/github-readme-stats)  -->
