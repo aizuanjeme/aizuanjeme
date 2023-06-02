@@ -22,5 +22,5 @@ I am a Full Stack Web Developer, passionate for all things web and open-source. 
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizuanjeme)](https://github.com/anuraghazra/github-readme-stats)  -->
-## :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aizuanjeme&theme=dark)](https://git.io/streak-stats)
+<!-- ## :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aizuanjeme&theme=dark)](https://git.io/streak-stats) -->
